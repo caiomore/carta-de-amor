@@ -1,0 +1,15 @@
+.about__body__image {
+    display: flex;
+    justify-content: center;
+}
+
+.about__image {
+    align-items: center;
+    width: 400px;
+    border-radius: 5%;
+    transition: 0.5s    ;
+}
+
+.about__image:hover {
+    opacity: 92%;
+}
